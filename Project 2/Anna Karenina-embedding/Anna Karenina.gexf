@@ -1,0 +1,524 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2020-11-15">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="Sex" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Arseny Lvov" label="Arseny Lvov">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Princess Varvara" label="Princess Varvara">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Alexey Alexandrovitch Karenin" label="Alexey Alexandrovitch Karenin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Sergey Ivanovitch Koznishev" label="Sergey Ivanovitch Koznishev">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Count Alexey Kirillovitch Vronsky" label="Count Alexey Kirillovitch Vronsky">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Vassenka Veslovsky" label="Vassenka Veslovsky">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Madame Karenina" label="Madame Karenina">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Marya Philimonovna" label="Marya Philimonovna">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Professor Katavasov" label="Professor Katavasov">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Sergey" label="Sergey">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Varvara Andreevna" label="Varvara Andreevna">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Madame Sviazhskaya" label="Madame Sviazhskaya">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Professor Metrov" label="Professor Metrov">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Princess Ekaterina Alexandrovna Shtcherbatsky" label="Princess Ekaterina Alexandrovna Shtcherbatsky">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Madame Stahl" label="Madame Stahl">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Golenishtchev" label="Golenishtchev">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Countess Nordston" label="Countess Nordston">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Countess Lidia Ivanovna" label="Countess Lidia Ivanovna">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Grisha" label="Grisha">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Princess Betsy Tverskoy" label="Princess Betsy Tverskoy">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Anna Pavlovna" label="Anna Pavlovna">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Tanya" label="Tanya">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Lieutenant Petritsky" label="Lieutenant Petritsky">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Baroness Shilton" label="Baroness Shilton">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Varya" label="Varya">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Konstantin Dmitrievitch Levin" label="Konstantin Dmitrievitch Levin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Prince Alexander Shtcherbatsky" label="Prince Alexander Shtcherbatsky">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Nikolay Ivanovitch Sviazhsky" label="Nikolay Ivanovitch Sviazhsky">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mihailov" label="Mihailov">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Petrov" label="Petrov">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Yegorushka Korsunsky" label="Yegorushka Korsunsky">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kritsky" label="Kritsky">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mlle. Linon" label="Mlle. Linon">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Princess Natalia" label="Princess Natalia">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Princess Darya Alexandrovna" label="Princess Darya Alexandrovna">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Vassily Fedorovitch" label="Vassily Fedorovitch">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Countess Vronsky" label="Countess Vronsky">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Prince Stepan Arkadyevitch Oblonsky" label="Prince Stepan Arkadyevitch Oblonsky">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Captain Yashvin" label="Captain Yashvin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Marya Nikolaevna" label="Marya Nikolaevna">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Captain Kamerovsky" label="Captain Kamerovsky">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Agafea Mihalovna" label="Agafea Mihalovna">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Anna Arkadyevna Karenin" label="Anna Arkadyevna Karenin">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Nikolay Levin" label="Nikolay Levin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Arseny Lvov" target="Prince Stepan Arkadyevitch Oblonsky" id="0" weight="8" />
+      <edge source="Arseny Lvov" target="Princess Darya Alexandrovna" id="1" weight="6" />
+      <edge source="Arseny Lvov" target="Konstantin Dmitrievitch Levin" id="2" weight="22" />
+      <edge source="Arseny Lvov" target="Princess Ekaterina Alexandrovna Shtcherbatsky" id="3" weight="12" />
+      <edge source="Arseny Lvov" target="Princess Natalia" id="4" weight="10" />
+      <edge source="Arseny Lvov" target="Professor Katavasov" id="5" weight="4" />
+      <edge source="Arseny Lvov" target="Professor Metrov" id="6" weight="4" />
+      <edge source="Arseny Lvov" target="Sergey Ivanovitch Koznishev" id="7" weight="2" />
+      <edge source="Princess Varvara" target="Captain Yashvin" id="8" weight="6" />
+      <edge source="Princess Varvara" target="Count Alexey Kirillovitch Vronsky" id="9" weight="20" />
+      <edge source="Princess Varvara" target="Anna Arkadyevna Karenin" id="10" weight="30" />
+      <edge source="Princess Varvara" target="Grisha" id="11" weight="2" />
+      <edge source="Princess Varvara" target="Sergey Ivanovitch Koznishev" id="12" weight="2" />
+      <edge source="Princess Varvara" target="Nikolay Ivanovitch Sviazhsky" id="13" weight="14" />
+      <edge source="Princess Varvara" target="Vassenka Veslovsky" id="14" weight="8" />
+      <edge source="Princess Varvara" target="Princess Darya Alexandrovna" id="15" weight="22" />
+      <edge source="Princess Varvara" target="Prince Stepan Arkadyevitch Oblonsky" id="16" weight="4" />
+      <edge source="Princess Varvara" target="Alexey Alexandrovitch Karenin" id="17" weight="6" />
+      <edge source="Princess Varvara" target="Princess Betsy Tverskoy" id="18" weight="2" />
+      <edge source="Princess Varvara" target="Anna Pavlovna" id="19" weight="4" />
+      <edge source="Princess Varvara" target="Countess Vronsky" id="20" weight="4" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Anna Arkadyevna Karenin" id="21" weight="188" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Prince Stepan Arkadyevitch Oblonsky" id="22" weight="100" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Princess Ekaterina Alexandrovna Shtcherbatsky" id="23" weight="18" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Sergey" id="24" weight="40" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Countess Vronsky" id="25" weight="20" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Count Alexey Kirillovitch Vronsky" id="26" weight="90" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Countess Lidia Ivanovna" id="27" weight="70" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Princess Darya Alexandrovna" id="28" weight="40" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Princess Betsy Tverskoy" id="29" weight="42" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Madame Karenina" id="30" weight="8" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Prince Alexander Shtcherbatsky" id="31" weight="6" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Captain Yashvin" id="32" weight="4" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Varya" id="33" weight="6" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Konstantin Dmitrievitch Levin" id="34" weight="16" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Sergey Ivanovitch Koznishev" id="35" weight="12" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Nikolay Levin" id="36" weight="4" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Golenishtchev" id="37" weight="2" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Vassily Fedorovitch" id="38" weight="2" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Marya Nikolaevna" id="39" weight="2" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Nikolay Ivanovitch Sviazhsky" id="40" weight="4" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Vassenka Veslovsky" id="41" weight="2" />
+      <edge source="Alexey Alexandrovitch Karenin" target="Anna Pavlovna" id="42" weight="2" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Konstantin Dmitrievitch Levin" id="43" weight="128" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Prince Stepan Arkadyevitch Oblonsky" id="44" weight="46" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Nikolay Levin" id="45" weight="36" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Princess Ekaterina Alexandrovna Shtcherbatsky" id="46" weight="42" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Count Alexey Kirillovitch Vronsky" id="47" weight="24" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Nikolay Ivanovitch Sviazhsky" id="48" weight="22" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Kritsky" id="49" weight="2" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Agafea Mihalovna" id="50" weight="6" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Princess Darya Alexandrovna" id="51" weight="22" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Prince Alexander Shtcherbatsky" id="52" weight="6" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Professor Katavasov" id="53" weight="30" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Varvara Andreevna" id="54" weight="32" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Tanya" id="55" weight="2" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Grisha" id="56" weight="4" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Madame Stahl" id="57" weight="4" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Anna Arkadyevna Karenin" id="58" weight="2" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Countess Vronsky" id="59" weight="8" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Captain Yashvin" id="60" weight="2" />
+      <edge source="Sergey Ivanovitch Koznishev" target="Countess Lidia Ivanovna" id="61" weight="2" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Konstantin Dmitrievitch Levin" id="62" weight="104" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Prince Stepan Arkadyevitch Oblonsky" id="63" weight="78" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Princess Ekaterina Alexandrovna Shtcherbatsky" id="64" weight="82" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Nikolay Levin" id="65" weight="26" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Princess Darya Alexandrovna" id="66" weight="70" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Countess Nordston" id="67" weight="4" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Madame Karenina" id="68" weight="30" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Countess Vronsky" id="69" weight="76" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Anna Arkadyevna Karenin" id="70" weight="286" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Prince Alexander Shtcherbatsky" id="71" weight="10" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Yegorushka Korsunsky" id="72" weight="4" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Nikolay Ivanovitch Sviazhsky" id="73" weight="40" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Sergey" id="74" weight="12" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Lieutenant Petritsky" id="75" weight="26" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Baroness Shilton" id="76" weight="4" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Captain Kamerovsky" id="77" weight="6" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Princess Betsy Tverskoy" id="78" weight="40" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Captain Yashvin" id="79" weight="58" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Countess Lidia Ivanovna" id="80" weight="12" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Varya" id="81" weight="4" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Golenishtchev" id="82" weight="62" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Mihailov" id="83" weight="32" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Vassenka Veslovsky" id="84" weight="16" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Grisha" id="85" weight="4" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Anna Pavlovna" id="86" weight="2" />
+      <edge source="Count Alexey Kirillovitch Vronsky" target="Marya Nikolaevna" id="87" weight="10" />
+      <edge source="Vassenka Veslovsky" target="Konstantin Dmitrievitch Levin" id="88" weight="90" />
+      <edge source="Vassenka Veslovsky" target="Prince Stepan Arkadyevitch Oblonsky" id="89" weight="60" />
+      <edge source="Vassenka Veslovsky" target="Grisha" id="90" weight="4" />
+      <edge source="Vassenka Veslovsky" target="Princess Ekaterina Alexandrovna Shtcherbatsky" id="91" weight="30" />
+      <edge source="Vassenka Veslovsky" target="Nikolay Levin" id="92" weight="16" />
+      <edge source="Vassenka Veslovsky" target="Anna Arkadyevna Karenin" id="93" weight="40" />
+      <edge source="Vassenka Veslovsky" target="Varvara Andreevna" id="94" weight="6" />
+      <edge source="Vassenka Veslovsky" target="Princess Darya Alexandrovna" id="95" weight="32" />
+      <edge source="Vassenka Veslovsky" target="Nikolay Ivanovitch Sviazhsky" id="96" weight="12" />
+      <edge source="Vassenka Veslovsky" target="Countess Vronsky" id="97" weight="2" />
+      <edge source="Vassenka Veslovsky" target="Princess Betsy Tverskoy" id="98" weight="2" />
+      <edge source="Vassenka Veslovsky" target="Anna Pavlovna" id="99" weight="2" />
+      <edge source="Madame Karenina" target="Countess Vronsky" id="100" weight="14" />
+      <edge source="Madame Karenina" target="Prince Stepan Arkadyevitch Oblonsky" id="101" weight="2" />
+      <edge source="Madame Karenina" target="Princess Betsy Tverskoy" id="102" weight="6" />
+      <edge source="Madame Karenina" target="Countess Lidia Ivanovna" id="103" weight="4" />
+      <edge source="Madame Karenina" target="Anna Arkadyevna Karenin" id="104" weight="20" />
+      <edge source="Madame Karenina" target="Captain Yashvin" id="105" weight="2" />
+      <edge source="Madame Karenina" target="Varya" id="106" weight="2" />
+      <edge source="Madame Karenina" target="Golenishtchev" id="107" weight="6" />
+      <edge source="Madame Karenina" target="Mihailov" id="108" weight="2" />
+      <edge source="Marya Philimonovna" target="Prince Stepan Arkadyevitch Oblonsky" id="109" weight="2" />
+      <edge source="Marya Philimonovna" target="Princess Darya Alexandrovna" id="110" weight="14" />
+      <edge source="Marya Philimonovna" target="Tanya" id="111" weight="2" />
+      <edge source="Marya Philimonovna" target="Konstantin Dmitrievitch Levin" id="112" weight="4" />
+      <edge source="Marya Philimonovna" target="Princess Ekaterina Alexandrovna Shtcherbatsky" id="113" weight="2" />
+      <edge source="Professor Katavasov" target="Konstantin Dmitrievitch Levin" id="114" weight="38" />
+      <edge source="Professor Katavasov" target="Nikolay Levin" id="115" weight="4" />
+      <edge source="Professor Katavasov" target="Princess Darya Alexandrovna" id="116" weight="2" />
+      <edge source="Professor Katavasov" target="Princess Ekaterina Alexandrovna Shtcherbatsky" id="117" weight="8" />
+      <edge source="Professor Katavasov" target="Professor Metrov" id="118" weight="14" />
+      <edge source="Professor Katavasov" target="Agafea Mihalovna" id="119" weight="2" />
+      <edge source="Professor Katavasov" target="Tanya" id="120" weight="4" />
+      <edge source="Sergey" target="Anna Arkadyevna Karenin" id="121" weight="30" />
+      <edge source="Sergey" target="Tanya" id="122" weight="2" />
+      <edge source="Sergey" target="Countess Vronsky" id="123" weight="4" />
+      <edge source="Sergey" target="Prince Stepan Arkadyevitch Oblonsky" id="124" weight="8" />
+      <edge source="Sergey" target="Countess Lidia Ivanovna" id="125" weight="14" />
+      <edge source="Sergey" target="Vassily Fedorovitch" id="126" weight="10" />
+      <edge source="Sergey" target="Prince Alexander Shtcherbatsky" id="127" weight="2" />
+      <edge source="Sergey" target="Konstantin Dmitrievitch Levin" id="128" weight="2" />
+      <edge source="Sergey" target="Princess Darya Alexandrovna" id="129" weight="4" />
+      <edge source="Sergey" target="Princess Ekaterina Alexandrovna Shtcherbatsky" id="130" weight="2" />
+      <edge source="Varvara Andreevna" target="Princess Ekaterina Alexandrovna Shtcherbatsky" id="131" weight="112" />
+      <edge source="Varvara Andreevna" target="Madame Stahl" id="132" weight="28" />
+      <edge source="Varvara Andreevna" target="Konstantin Dmitrievitch Levin" id="133" weight="22" />
+      <edge source="Varvara Andreevna" target="Marya Nikolaevna" id="134" weight="4" />
+      <edge source="Varvara Andreevna" target="Petrov" id="135" weight="2" />
+      <edge source="Varvara Andreevna" target="Anna Pavlovna" id="136" weight="4" />
+      <edge source="Varvara Andreevna" target="Prince Stepan Arkadyevitch Oblonsky" id="137" weight="8" />
+      <edge source="Varvara Andreevna" target="Prince Alexander Shtcherbatsky" id="138" weight="2" />
+      <edge source="Varvara Andreevna" target="Nikolay Levin" id="139" weight="2" />
+      <edge source="Varvara Andreevna" target="Princess Darya Alexandrovna" id="140" weight="12" />
+      <edge source="Varvara Andreevna" target="Agafea Mihalovna" id="141" weight="4" />
+      <edge source="Varvara Andreevna" target="Grisha" id="142" weight="2" />
+      <edge source="Varvara Andreevna" target="Anna Arkadyevna Karenin" id="143" weight="2" />
+      <edge source="Varvara Andreevna" target="Princess Natalia" id="144" weight="2" />
+      <edge source="Madame Sviazhskaya" target="Nikolay Levin" id="145" weight="2" />
+      <edge source="Madame Sviazhskaya" target="Konstantin Dmitrievitch Levin" id="146" weight="4" />
+      <edge source="Professor Metrov" target="Konstantin Dmitrievitch Levin" id="147" weight="16" />
+      <edge source="Professor Metrov" target="Princess Ekaterina Alexandrovna Shtcherbatsky" id="148" weight="2" />
+      <edge source="Professor Metrov" target="Nikolay Levin" id="149" weight="10" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Konstantin Dmitrievitch Levin" id="150" weight="286" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Prince Stepan Arkadyevitch Oblonsky" id="151" weight="90" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Princess Natalia" id="152" weight="12" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Prince Alexander Shtcherbatsky" id="153" weight="24" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Nikolay Levin" id="154" weight="84" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Mlle. Linon" id="155" weight="4" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Princess Darya Alexandrovna" id="156" weight="102" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Countess Nordston" id="157" weight="16" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Anna Arkadyevna Karenin" id="158" weight="76" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Yegorushka Korsunsky" id="159" weight="14" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Marya Nikolaevna" id="160" weight="34" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Madame Stahl" id="161" weight="32" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Petrov" id="162" weight="8" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Anna Pavlovna" id="163" weight="10" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Nikolay Ivanovitch Sviazhsky" id="164" weight="6" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Countess Vronsky" id="165" weight="2" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Agafea Mihalovna" id="166" weight="32" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Grisha" id="167" weight="4" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Tanya" id="168" weight="6" />
+      <edge source="Princess Ekaterina Alexandrovna Shtcherbatsky" target="Captain Yashvin" id="169" weight="2" />
+      <edge source="Madame Stahl" target="Petrov" id="170" weight="2" />
+      <edge source="Madame Stahl" target="Prince Alexander Shtcherbatsky" id="171" weight="2" />
+      <edge source="Madame Stahl" target="Countess Lidia Ivanovna" id="172" weight="2" />
+      <edge source="Golenishtchev" target="Anna Arkadyevna Karenin" id="173" weight="36" />
+      <edge source="Golenishtchev" target="Countess Vronsky" id="174" weight="14" />
+      <edge source="Golenishtchev" target="Mihailov" id="175" weight="26" />
+      <edge source="Countess Nordston" target="Konstantin Dmitrievitch Levin" id="176" weight="22" />
+      <edge source="Countess Nordston" target="Countess Vronsky" id="177" weight="2" />
+      <edge source="Countess Nordston" target="Anna Arkadyevna Karenin" id="178" weight="2" />
+      <edge source="Countess Nordston" target="Yegorushka Korsunsky" id="179" weight="2" />
+      <edge source="Countess Lidia Ivanovna" target="Anna Arkadyevna Karenin" id="180" weight="30" />
+      <edge source="Countess Lidia Ivanovna" target="Princess Betsy Tverskoy" id="181" weight="4" />
+      <edge source="Countess Lidia Ivanovna" target="Countess Vronsky" id="182" weight="4" />
+      <edge source="Countess Lidia Ivanovna" target="Vassily Fedorovitch" id="183" weight="2" />
+      <edge source="Countess Lidia Ivanovna" target="Marya Nikolaevna" id="184" weight="2" />
+      <edge source="Countess Lidia Ivanovna" target="Konstantin Dmitrievitch Levin" id="185" weight="2" />
+      <edge source="Countess Lidia Ivanovna" target="Prince Stepan Arkadyevitch Oblonsky" id="186" weight="22" />
+      <edge source="Grisha" target="Tanya" id="187" weight="14" />
+      <edge source="Grisha" target="Prince Stepan Arkadyevitch Oblonsky" id="188" weight="10" />
+      <edge source="Grisha" target="Princess Darya Alexandrovna" id="189" weight="22" />
+      <edge source="Grisha" target="Anna Arkadyevna Karenin" id="190" weight="2" />
+      <edge source="Grisha" target="Konstantin Dmitrievitch Levin" id="191" weight="12" />
+      <edge source="Grisha" target="Nikolay Ivanovitch Sviazhsky" id="192" weight="2" />
+      <edge source="Grisha" target="Prince Alexander Shtcherbatsky" id="193" weight="2" />
+      <edge source="Princess Betsy Tverskoy" target="Anna Arkadyevna Karenin" id="194" weight="84" />
+      <edge source="Princess Betsy Tverskoy" target="Prince Stepan Arkadyevitch Oblonsky" id="195" weight="18" />
+      <edge source="Princess Betsy Tverskoy" target="Countess Vronsky" id="196" weight="12" />
+      <edge source="Princess Betsy Tverskoy" target="Baroness Shilton" id="197" weight="2" />
+      <edge source="Princess Betsy Tverskoy" target="Varya" id="198" weight="2" />
+      <edge source="Princess Betsy Tverskoy" target="Nikolay Ivanovitch Sviazhsky" id="199" weight="2" />
+      <edge source="Princess Betsy Tverskoy" target="Anna Pavlovna" id="200" weight="2" />
+      <edge source="Anna Pavlovna" target="Petrov" id="201" weight="4" />
+      <edge source="Anna Pavlovna" target="Prince Stepan Arkadyevitch Oblonsky" id="202" weight="2" />
+      <edge source="Anna Pavlovna" target="Nikolay Ivanovitch Sviazhsky" id="203" weight="2" />
+      <edge source="Anna Pavlovna" target="Anna Arkadyevna Karenin" id="204" weight="2" />
+      <edge source="Anna Pavlovna" target="Princess Darya Alexandrovna" id="205" weight="2" />
+      <edge source="Tanya" target="Prince Stepan Arkadyevitch Oblonsky" id="206" weight="6" />
+      <edge source="Tanya" target="Anna Arkadyevna Karenin" id="207" weight="6" />
+      <edge source="Tanya" target="Princess Darya Alexandrovna" id="208" weight="18" />
+      <edge source="Tanya" target="Konstantin Dmitrievitch Levin" id="209" weight="8" />
+      <edge source="Lieutenant Petritsky" target="Baroness Shilton" id="210" weight="4" />
+      <edge source="Lieutenant Petritsky" target="Captain Kamerovsky" id="211" weight="2" />
+      <edge source="Lieutenant Petritsky" target="Countess Vronsky" id="212" weight="4" />
+      <edge source="Lieutenant Petritsky" target="Captain Yashvin" id="213" weight="10" />
+      <edge source="Baroness Shilton" target="Captain Kamerovsky" id="214" weight="2" />
+      <edge source="Baroness Shilton" target="Anna Arkadyevna Karenin" id="215" weight="2" />
+      <edge source="Varya" target="Captain Yashvin" id="216" weight="2" />
+      <edge source="Varya" target="Anna Arkadyevna Karenin" id="217" weight="6" />
+      <edge source="Varya" target="Countess Vronsky" id="218" weight="6" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Prince Stepan Arkadyevitch Oblonsky" id="219" weight="312" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Nikolay Levin" id="220" weight="236" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Princess Natalia" id="221" weight="10" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Prince Alexander Shtcherbatsky" id="222" weight="20" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Mlle. Linon" id="223" weight="8" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Princess Darya Alexandrovna" id="224" weight="132" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Nikolay Ivanovitch Sviazhsky" id="225" weight="98" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Anna Arkadyevna Karenin" id="226" weight="36" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Yegorushka Korsunsky" id="227" weight="2" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Kritsky" id="228" weight="4" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Marya Nikolaevna" id="229" weight="46" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Agafea Mihalovna" id="230" weight="38" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Vassily Fedorovitch" id="231" weight="12" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Countess Vronsky" id="232" weight="10" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Captain Yashvin" id="233" weight="6" />
+      <edge source="Konstantin Dmitrievitch Levin" target="Mihailov" id="234" weight="2" />
+      <edge source="Prince Alexander Shtcherbatsky" target="Princess Natalia" id="235" weight="2" />
+      <edge source="Prince Alexander Shtcherbatsky" target="Nikolay Levin" id="236" weight="12" />
+      <edge source="Prince Alexander Shtcherbatsky" target="Mlle. Linon" id="237" weight="2" />
+      <edge source="Prince Alexander Shtcherbatsky" target="Princess Darya Alexandrovna" id="238" weight="6" />
+      <edge source="Prince Alexander Shtcherbatsky" target="Prince Stepan Arkadyevitch Oblonsky" id="239" weight="6" />
+      <edge source="Prince Alexander Shtcherbatsky" target="Anna Arkadyevna Karenin" id="240" weight="2" />
+      <edge source="Prince Alexander Shtcherbatsky" target="Vassily Fedorovitch" id="241" weight="4" />
+      <edge source="Prince Alexander Shtcherbatsky" target="Agafea Mihalovna" id="242" weight="2" />
+      <edge source="Prince Alexander Shtcherbatsky" target="Nikolay Ivanovitch Sviazhsky" id="243" weight="2" />
+      <edge source="Nikolay Ivanovitch Sviazhsky" target="Nikolay Levin" id="244" weight="30" />
+      <edge source="Nikolay Ivanovitch Sviazhsky" target="Princess Darya Alexandrovna" id="245" weight="22" />
+      <edge source="Nikolay Ivanovitch Sviazhsky" target="Anna Arkadyevna Karenin" id="246" weight="24" />
+      <edge source="Nikolay Ivanovitch Sviazhsky" target="Prince Stepan Arkadyevitch Oblonsky" id="247" weight="12" />
+      <edge source="Nikolay Ivanovitch Sviazhsky" target="Marya Nikolaevna" id="248" weight="2" />
+      <edge source="Mihailov" target="Anna Arkadyevna Karenin" id="249" weight="22" />
+      <edge source="Mihailov" target="Countess Vronsky" id="250" weight="8" />
+      <edge source="Mihailov" target="Prince Stepan Arkadyevitch Oblonsky" id="251" weight="2" />
+      <edge source="Mihailov" target="Nikolay Levin" id="252" weight="2" />
+      <edge source="Yegorushka Korsunsky" target="Prince Stepan Arkadyevitch Oblonsky" id="253" weight="2" />
+      <edge source="Yegorushka Korsunsky" target="Anna Arkadyevna Karenin" id="254" weight="18" />
+      <edge source="Kritsky" target="Nikolay Levin" id="255" weight="6" />
+      <edge source="Mlle. Linon" target="Princess Natalia" id="256" weight="2" />
+      <edge source="Mlle. Linon" target="Nikolay Levin" id="257" weight="2" />
+      <edge source="Mlle. Linon" target="Princess Darya Alexandrovna" id="258" weight="2" />
+      <edge source="Princess Natalia" target="Nikolay Levin" id="259" weight="2" />
+      <edge source="Princess Natalia" target="Princess Darya Alexandrovna" id="260" weight="10" />
+      <edge source="Princess Natalia" target="Prince Stepan Arkadyevitch Oblonsky" id="261" weight="2" />
+      <edge source="Princess Natalia" target="Anna Arkadyevna Karenin" id="262" weight="2" />
+      <edge source="Princess Darya Alexandrovna" target="Prince Stepan Arkadyevitch Oblonsky" id="263" weight="104" />
+      <edge source="Princess Darya Alexandrovna" target="Anna Arkadyevna Karenin" id="264" weight="224" />
+      <edge source="Princess Darya Alexandrovna" target="Nikolay Levin" id="265" weight="20" />
+      <edge source="Princess Darya Alexandrovna" target="Countess Vronsky" id="266" weight="8" />
+      <edge source="Princess Darya Alexandrovna" target="Vassily Fedorovitch" id="267" weight="2" />
+      <edge source="Princess Darya Alexandrovna" target="Agafea Mihalovna" id="268" weight="6" />
+      <edge source="Princess Darya Alexandrovna" target="Marya Nikolaevna" id="269" weight="4" />
+      <edge source="Princess Darya Alexandrovna" target="Captain Yashvin" id="270" weight="2" />
+      <edge source="Vassily Fedorovitch" target="Nikolay Levin" id="271" weight="2" />
+      <edge source="Countess Vronsky" target="Prince Stepan Arkadyevitch Oblonsky" id="272" weight="10" />
+      <edge source="Countess Vronsky" target="Anna Arkadyevna Karenin" id="273" weight="54" />
+      <edge source="Countess Vronsky" target="Captain Yashvin" id="274" weight="14" />
+      <edge source="Countess Vronsky" target="Nikolay Levin" id="275" weight="4" />
+      <edge source="Countess Vronsky" target="Marya Nikolaevna" id="276" weight="2" />
+      <edge source="Prince Stepan Arkadyevitch Oblonsky" target="Anna Arkadyevna Karenin" id="277" weight="70" />
+      <edge source="Prince Stepan Arkadyevitch Oblonsky" target="Nikolay Levin" id="278" weight="52" />
+      <edge source="Prince Stepan Arkadyevitch Oblonsky" target="Agafea Mihalovna" id="279" weight="10" />
+      <edge source="Prince Stepan Arkadyevitch Oblonsky" target="Marya Nikolaevna" id="280" weight="4" />
+      <edge source="Prince Stepan Arkadyevitch Oblonsky" target="Captain Yashvin" id="281" weight="4" />
+      <edge source="Captain Yashvin" target="Anna Arkadyevna Karenin" id="282" weight="18" />
+      <edge source="Captain Yashvin" target="Marya Nikolaevna" id="283" weight="2" />
+      <edge source="Captain Yashvin" target="Nikolay Levin" id="284" weight="2" />
+      <edge source="Marya Nikolaevna" target="Nikolay Levin" id="285" weight="24" />
+      <edge source="Marya Nikolaevna" target="Agafea Mihalovna" id="286" weight="2" />
+      <edge source="Agafea Mihalovna" target="Nikolay Levin" id="287" weight="10" />
+      <edge source="Anna Arkadyevna Karenin" target="Nikolay Levin" id="288" weight="4" />
+    </edges>
+  </graph>
+</gexf>

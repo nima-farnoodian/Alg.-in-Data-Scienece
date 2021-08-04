@@ -1,0 +1,48 @@
+Name, Role
+ALEXEY ALEXANDROVITCH KARENIN, a minister of state.
+ANNA ARKADYEVNA KARENIN,  wife.
+SERGEY /SERYOZHA,  son.
+COUNT ALEXEY KIRILLOVITCH VRONSKY, a young officer.
+COUNTESS VRONSKY,  mother.
+VARYA,  sister-in-law.
+LIEUTENANT PETRITSKY, friends.
+CAPTAIN KAMEROVSKY,  friends.
+CAPTAIN YASHVIN, friends.
+PRINCE STEPAN ARKADYEVITCH OBLONSKY /STIVA, brother of Anna.
+PRINCESS DARYA ALEXANDROVNA /DOLLY,  wife.
+GRISHA, children of Stiva and Dolly.
+TANYA, children of Stiva and Dolly.
+PRINCE ALEXANDER SHTCHERBATSKY, father of Dolly.
+PRINCESS SHTCHERBATSKY, mother of Dolly.
+PRINCESS NATALIA, their second daughter.
+ARSENY LVOV,  husband.
+PRINCESS EKATERINA ALEXANDROVNA SHTCHERBATSKY /KITTY, their youngest daughter; later wife of Levin.
+KONSTANTIN DMITRIEVITCH LEVIN /Kostya, proprietor of Pokrovskoe.
+NIKOLAY LEVIN, brother.
+SERGEY IVANOVITCH KOZNISHEV,  half-brother.
+MARYA NIKOLAEVNA, companion of Nikolay Levin.
+KRITSKY, friend of Nikolay Levin.
+AGAFEA MIHALOVNA, housekeeper at Pokrovskoe.
+VASSILY FEDOROVITCH, bailiff at Pokrovskoe.
+YEGORUSHKA KORSUNSKY, leader of cotillons.
+MADAME KORSUNSKY,  wife.
+COUNTESS LIDIA IVANOVNA, Null.
+PRINCESS BETSY TVERSKOY, cousin of Vronsky.
+BARONESS SHILTON, friend of Petritsky.
+COUNTESS NORDSTON, friend of Kitty.
+MLLE. LINON, French governess of Kitty.
+PRINCESS VARVARA, aunt of Stiva.
+MADAME STAHL, an invalid philanthropist.
+VARVARA ANDREEVNA /VARENKA,  adopted daughter.
+PETROV, a painter.
+ANNA PAVLOVNA, wife.
+VASSENKA VESLOVSKY, friend of Stiva.
+NIKOLAY IVANOVITCH SVIAZHSKY, a landowner.
+NASTIA,  sister.
+PROFESSOR KATAVASOV, friend of Levin.
+PROFESSOR METROV,Null.
+GOLENISHTCHEV, friend of Vronsky.
+MIHAILOV, a painter.
+Marya Philimonovna, Null.
+Madame Karenina, Null.
+Madame Sviazhskaya, Null.
