@@ -14,3 +14,6 @@ period due to the current Covid-19 pandemic ; we opted for proposing a shortest-
 framework in terms of safety in the London transportation network with the hope of reducing contamination
 risk for commuters. Indeed, we formalized and created a new term "safer shortest-path", which
 is meant to provide the commuters with low-risk and relatively short travel routes.
+
+![Example Figures](london%20transport.png)
+![Example of path recomendation](safest-path.png)
