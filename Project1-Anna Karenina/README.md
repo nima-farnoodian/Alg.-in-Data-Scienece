@@ -16,3 +16,5 @@ may spring from the fact that the story of the novel is a medley of love, secret
 contact. Also, using greedy algorithm and independent cascade model, we found out that Prince Stepan
 Arkadyevitch Oblonsky and Prince Alexander Shtcherbatsky are two most infuential actors in the network
 who can impact 18.48 actors on average.
+
+![net example](network.png)
